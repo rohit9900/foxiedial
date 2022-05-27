@@ -1,0 +1,20 @@
+{
+    "name": "xoyal/foxiedial",
+    "description": "It's a test package for xoyal",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rohit9900",
+            "email": "rohit.sonawane@xoyal.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Xoyal\\Foxiedial\\": "src/"
+        }
+    }
+}
