@@ -16,5 +16,13 @@
         "psr-4": {
             "Xoyal\\Foxiedial\\": "src/"
         }
+    },
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Xoyal\\Foxiedial\\FoxieServiceProvider"
+            ]
+        }
     }
 }
